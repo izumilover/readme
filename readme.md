@@ -46,7 +46,7 @@ gitHub 연동법
 		
 		- VCS > checkout from version control > gitHub 클릭
 			
-			Git Repository Url : git@github.com:nxwave/date12_dev.git (GitHub 에 저장된 저장소 경로)
+			Git Repository Url : git@github.com:XXXXX/XXXXXXXX.git (GitHub 에 저장된 저장소 경로)
 			Parent Directory : 작업폴더
 			Directory Name : 작업폴더명
 			입력 후 Clone 클릭
